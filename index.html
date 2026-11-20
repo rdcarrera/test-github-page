@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Porfolio fotográfico</title>
+  <meta name="description" content="Porfolio de fotografía profesional: retrato, bodas, paisaje y editorial.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Manrope:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script type="module" src="assets/js/home.js"></script>
+</head>
+<body class="page-home">
+  <header class="site-header"></header>
+
+  <main>
+    <section class="hero">
+      <div class="hero__slides" aria-hidden="true"></div>
+      <div class="hero__content">
+        <p class="eyebrow hero__location"></p>
+        <h1 class="hero__title"></h1>
+        <p class="hero__tagline"></p>
+        <div class="hero__actions">
+          <a class="btn btn--light" href="#trabajo">Ver trabajo</a>
+          <a class="btn btn--ghost" href="contacto.html">Reservar sesión</a>
+        </div>
+      </div>
+      <p class="hero__meta"></p>
+      <a class="hero__scroll" href="#trabajo" aria-label="Bajar al trabajo"><span></span></a>
+    </section>
+
+    <section id="trabajo" class="section">
+      <div class="section__head" data-reveal>
+        <p class="eyebrow">Trabajo seleccionado</p>
+        <h2 class="section__title">Cada historia pide <em>su propia luz</em></h2>
+      </div>
+      <div class="categories" aria-live="polite">
+        <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+      </div>
+    </section>
+
+    <section id="sobre-mi" class="section about">
+      <figure class="about__media" data-reveal><img alt="" loading="lazy"></figure>
+      <div class="about__body" data-reveal>
+        <p class="eyebrow">Sobre mí</p>
+        <h2 class="section__title">Fotografía con <em>intención</em></h2>
+        <div class="about__text"></div>
+        <dl class="stats"></dl>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer"></footer>
+</body>
+</html>

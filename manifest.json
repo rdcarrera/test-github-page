@@ -1,0 +1,604 @@
+{
+ "generated": "scripts/check.sh",
+ "tree": [
+  {
+   "path": "photos/01-retrato",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "dda368cc3869556788bc617e6a8275e70d64eb19"
+  },
+  {
+   "path": "photos/01-retrato/01-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "99e2dd054a25aa5070da6f0637794a710af6a4b0",
+   "size": 295138
+  },
+  {
+   "path": "photos/01-retrato/02-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "10860c7fce7be5beba77b1505f0cc3b6d933cd48",
+   "size": 376144
+  },
+  {
+   "path": "photos/01-retrato/03-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "77e16c286b0677906cdc547c57b055895b53045d",
+   "size": 285927
+  },
+  {
+   "path": "photos/01-retrato/04-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e326bea885594001a9fffd4ba373627481f9f26f",
+   "size": 426562
+  },
+  {
+   "path": "photos/01-retrato/05-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f0abbc3c407b38f3768e204a952941c4e87da09c",
+   "size": 586509
+  },
+  {
+   "path": "photos/01-retrato/06-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "efd7f8fb537536d6b66e57a6432e9e497b37e92c",
+   "size": 234320
+  },
+  {
+   "path": "photos/01-retrato/07-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5a1ff012ab5b558b94f41b6f7da9f965ad4cf32a",
+   "size": 262138
+  },
+  {
+   "path": "photos/01-retrato/info.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "098390545d0c3b5d78654d25ff529e9ecd2469d0",
+   "size": 189
+  },
+  {
+   "path": "photos/01-retrato/thumbs",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "710ee1da8f6cc97af12d4b7fa53405d024696d69"
+  },
+  {
+   "path": "photos/01-retrato/thumbs/01-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2b4afcde08f5bdad1a9256dbba8dc7ed2aa3e730",
+   "size": 109411
+  },
+  {
+   "path": "photos/01-retrato/thumbs/02-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9d69e049bb869d2875b6ace0de95fa13582131ef",
+   "size": 143209
+  },
+  {
+   "path": "photos/01-retrato/thumbs/03-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e531ce01286369203348e047eb7095c34f258204",
+   "size": 152425
+  },
+  {
+   "path": "photos/01-retrato/thumbs/04-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "eb2fa63035d534de13e425835d21ec5e8d9d5bae",
+   "size": 168147
+  },
+  {
+   "path": "photos/01-retrato/thumbs/05-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f611f3b0124b82c28fdd5d0968beb178c0879aa4",
+   "size": 163904
+  },
+  {
+   "path": "photos/01-retrato/thumbs/06-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0a5d94182df2232ff04b1f70fb7abf175709f49b",
+   "size": 113851
+  },
+  {
+   "path": "photos/01-retrato/thumbs/07-retrato.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "da71523e11610964573b9d53c8ce6633db68418c",
+   "size": 142643
+  },
+  {
+   "path": "photos/02-bodas",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "63e3feea83ce17046c0a9529787454400087cae3"
+  },
+  {
+   "path": "photos/02-bodas/01-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ae097ef00b4f8d5a4c1f62b2b7bb5ced9a17b68f",
+   "size": 220790
+  },
+  {
+   "path": "photos/02-bodas/02-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "97c43b94c3b4c1755585653608baf41de0e7f673",
+   "size": 417240
+  },
+  {
+   "path": "photos/02-bodas/03-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "927f910a487a4958051918198db1e45d68fd1df8",
+   "size": 90336
+  },
+  {
+   "path": "photos/02-bodas/04-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b2002e0c8f0a48861fcefd023c34fca54defa3b1",
+   "size": 789620
+  },
+  {
+   "path": "photos/02-bodas/05-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6e1330d3e49059b008e053d2993cc749bdd1677c",
+   "size": 371900
+  },
+  {
+   "path": "photos/02-bodas/06-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4fb8dcf33bd8653869fb63b6867ec357ae169950",
+   "size": 183213
+  },
+  {
+   "path": "photos/02-bodas/07-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "091b20b12ce660963ba165af1e3c7bd30144fee5",
+   "size": 182697
+  },
+  {
+   "path": "photos/02-bodas/info.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "27738687c7af40872dbe6db0cab3d5a110e01ba1",
+   "size": 226
+  },
+  {
+   "path": "photos/02-bodas/thumbs",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "69d1a8520b154f529fb54c30ae6adc02a42777af"
+  },
+  {
+   "path": "photos/02-bodas/thumbs/01-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "844f56ad583f4365e38b449cb601f1f5584c9caf",
+   "size": 120200
+  },
+  {
+   "path": "photos/02-bodas/thumbs/02-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9c0b1ce2dd004acf495e084f539a5b942c63701a",
+   "size": 146557
+  },
+  {
+   "path": "photos/02-bodas/thumbs/03-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6b8484db46b96aaed36ee53ad0f893043063c195",
+   "size": 49743
+  },
+  {
+   "path": "photos/02-bodas/thumbs/04-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e73d7a089efb82cfa45fe84e0e45cdd1d5c46ce6",
+   "size": 227669
+  },
+  {
+   "path": "photos/02-bodas/thumbs/05-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "29729e54efcbb7d64e3c274190f70c69e72c3c22",
+   "size": 174313
+  },
+  {
+   "path": "photos/02-bodas/thumbs/06-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a12d3e5f45b38ce40b264e822d73cdef2cd4bc6c",
+   "size": 134770
+  },
+  {
+   "path": "photos/02-bodas/thumbs/07-bodas.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7da79c536420100455959f9b8a3d1c240d8e4160",
+   "size": 55564
+  },
+  {
+   "path": "photos/02-bodas/videos.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3c9a5e567a8d9c181247c152e1694019511983b7",
+   "size": 286
+  },
+  {
+   "path": "photos/03-paisaje",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "554565c56076096c947c235436cd1340ad1e9480"
+  },
+  {
+   "path": "photos/03-paisaje/01-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c2c4729e4a299624652cab2133c8653adee712c8",
+   "size": 343510
+  },
+  {
+   "path": "photos/03-paisaje/02-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "118732f899366bde9e2200491067f4b686783944",
+   "size": 193498
+  },
+  {
+   "path": "photos/03-paisaje/03-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "897ed4cd3051bb5c8b5495c287b60007a210e810",
+   "size": 252296
+  },
+  {
+   "path": "photos/03-paisaje/04-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d08e0c40500d4a11d875538ecb9fa3fbc9566cde",
+   "size": 646313
+  },
+  {
+   "path": "photos/03-paisaje/05-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "92c0db3347b4d75f97226a6c0217a2eb02a26da9",
+   "size": 419594
+  },
+  {
+   "path": "photos/03-paisaje/06-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "688f0563688d57895e73ca7d1f2cf936f1e96c57",
+   "size": 173402
+  },
+  {
+   "path": "photos/03-paisaje/07-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "dabb61a6312605f63ddf451fab9e6d81c655cd5b",
+   "size": 416785
+  },
+  {
+   "path": "photos/03-paisaje/info.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2b913bd133c23628c3441ad602776da2c943e452",
+   "size": 183
+  },
+  {
+   "path": "photos/03-paisaje/thumbs",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "8351edd1e187aa965f8236a92cae926dc5fd5dce"
+  },
+  {
+   "path": "photos/03-paisaje/thumbs/01-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "df1ccba025a390debc6dd6e1d4b03b29174058ed",
+   "size": 145354
+  },
+  {
+   "path": "photos/03-paisaje/thumbs/02-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "bb2589f5245c53dc246fa2ce89a13737ae5bce2a",
+   "size": 72016
+  },
+  {
+   "path": "photos/03-paisaje/thumbs/03-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "511cb47128de889ef1832e3d79dfe1ff446e1b90",
+   "size": 77828
+  },
+  {
+   "path": "photos/03-paisaje/thumbs/04-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "bd43c728d17f59909f2169a7795fa82e3e983e57",
+   "size": 196849
+  },
+  {
+   "path": "photos/03-paisaje/thumbs/05-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a75ec09199f02ab937f951d49ab29d52c5506eb1",
+   "size": 150501
+  },
+  {
+   "path": "photos/03-paisaje/thumbs/06-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b160d7e6c2e8846f316c50d78cc4da249080a2d4",
+   "size": 75610
+  },
+  {
+   "path": "photos/03-paisaje/thumbs/07-paisaje.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b1b50c0a3dd29a839ff22be0973e361e44a05fbc",
+   "size": 128642
+  },
+  {
+   "path": "photos/04-arquitectura",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "e17ca89234d4c983d05bf31f05d9d55f5df99bcb"
+  },
+  {
+   "path": "photos/04-arquitectura/01-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "83a313896bf3c2bde5a37303249d60c3551afb6b",
+   "size": 330494
+  },
+  {
+   "path": "photos/04-arquitectura/02-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "bbbbb863c9f9808c0dcedec41c4f17e4376050e8",
+   "size": 354277
+  },
+  {
+   "path": "photos/04-arquitectura/03-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "548c36d08692f1b7c65d98a1d63bcb8fb5fd8f25",
+   "size": 556063
+  },
+  {
+   "path": "photos/04-arquitectura/04-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6bcf3d7e5898e4088a149bbda9bd59f0bf8bc31f",
+   "size": 286656
+  },
+  {
+   "path": "photos/04-arquitectura/05-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7b6a3dc0254e4bf6530720a11a5492d5ba6930ef",
+   "size": 323499
+  },
+  {
+   "path": "photos/04-arquitectura/06-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "db29490bfab4498a605a97945f04d354a72df606",
+   "size": 176995
+  },
+  {
+   "path": "photos/04-arquitectura/07-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a6c929abde901bc63e8f32b143aa77ab891b661a",
+   "size": 296562
+  },
+  {
+   "path": "photos/04-arquitectura/info.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "226bf614561243b6ab549808a798cdb64e51837c",
+   "size": 227
+  },
+  {
+   "path": "photos/04-arquitectura/thumbs",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "904ae99433b418b11a5dfcbb9a477a93d7ba0c44"
+  },
+  {
+   "path": "photos/04-arquitectura/thumbs/01-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "db052ee7f0883271e5a6fc512e16571400f22fa5",
+   "size": 147939
+  },
+  {
+   "path": "photos/04-arquitectura/thumbs/02-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "094eeb5ef63ab9cdf205e4d760e694cbda241aef",
+   "size": 129002
+  },
+  {
+   "path": "photos/04-arquitectura/thumbs/03-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d1448e6c4b2ab00291d11009f7b02bee7d2d7f9f",
+   "size": 173754
+  },
+  {
+   "path": "photos/04-arquitectura/thumbs/04-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b7621af97bd2ff54ba2f39308653d710effe0e21",
+   "size": 96673
+  },
+  {
+   "path": "photos/04-arquitectura/thumbs/05-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "53d3b9d28813db844d6f833252ea8218a40852fc",
+   "size": 158407
+  },
+  {
+   "path": "photos/04-arquitectura/thumbs/06-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "518aafe867efd3ed204c7d43fcad7ac8efc49d68",
+   "size": 126396
+  },
+  {
+   "path": "photos/04-arquitectura/thumbs/07-arquitectura.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "02b2fea435ba664660fcb9b2b631f828b83fece1",
+   "size": 124214
+  },
+  {
+   "path": "photos/05-editorial",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "50c19ed2ba2f2895615148496b02442b364474f0"
+  },
+  {
+   "path": "photos/05-editorial/01-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "032814e0fdac7ac4de1f9d1546ed41a68403fbcb",
+   "size": 249827
+  },
+  {
+   "path": "photos/05-editorial/02-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "34d9e1b3a23452693147384d959d39cfc0eb7d47",
+   "size": 486131
+  },
+  {
+   "path": "photos/05-editorial/03-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d4ed5c67411514e6c079f4f2d5134ffcf536b749",
+   "size": 356046
+  },
+  {
+   "path": "photos/05-editorial/04-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "182830b3fcd0aa5533d34378426362aa7a88067b",
+   "size": 224709
+  },
+  {
+   "path": "photos/05-editorial/05-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "04b3d8a276342d753ddb00220ccb487d96777d38",
+   "size": 341836
+  },
+  {
+   "path": "photos/05-editorial/06-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ac63eb249dbb35a721e19f81438c9d01f165233e",
+   "size": 442446
+  },
+  {
+   "path": "photos/05-editorial/07-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "443379a6e6ecc0871a8980d595f5f7f374f9d743",
+   "size": 306612
+  },
+  {
+   "path": "photos/05-editorial/info.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "633008f3fdd62b4d72370cc72b649792840c769e",
+   "size": 190
+  },
+  {
+   "path": "photos/05-editorial/thumbs",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "86a6b3f6d0245c27ae6d72152b6acf49095be849"
+  },
+  {
+   "path": "photos/05-editorial/thumbs/01-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a9c289e9283d09168de4986d12a37dbc7c863f76",
+   "size": 127415
+  },
+  {
+   "path": "photos/05-editorial/thumbs/02-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d77dbafa9cbfa2be1d655470dada7c8647ac1482",
+   "size": 170494
+  },
+  {
+   "path": "photos/05-editorial/thumbs/03-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "75eca542841cb674f87d2e547d15c1e7b4b5de9f",
+   "size": 152279
+  },
+  {
+   "path": "photos/05-editorial/thumbs/04-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7d6ab13dec8fcf5d2a403f381d24506199e6a44e",
+   "size": 130083
+  },
+  {
+   "path": "photos/05-editorial/thumbs/05-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "afa5fd3bf7ae4d6faabd0f46dd1d929abe51d053",
+   "size": 135677
+  },
+  {
+   "path": "photos/05-editorial/thumbs/06-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8e608d49f48adab07b44665df5b1d4a426f5079d",
+   "size": 234067
+  },
+  {
+   "path": "photos/05-editorial/thumbs/07-editorial.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3c0f22fe34d1c9fb2c3d35c9d12791467b8a2009",
+   "size": 149834
+  },
+  {
+   "path": "photos/05-editorial/videos.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e3a33dfc6902868058068c8ba8b39624881043ab",
+   "size": 124
+  }
+ ]
+}
