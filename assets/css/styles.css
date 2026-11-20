@@ -311,6 +311,7 @@ em { font-style: italic; color: var(--accent); }
 @media (max-width: 760px) {
   .categories { grid-template-columns: 1fr; }
   .category-card, .category-card:nth-child(n) { grid-column: auto; margin-top: 0; }
+  .category-card:last-child:nth-child(odd) { grid-column: auto; }
   .category-card:nth-child(n) .category-card__media { aspect-ratio: 4 / 5; }
 }
 
